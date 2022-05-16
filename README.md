@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeonardoBoeno
-- 👀 I’m interested in development, infra and DevOps culture.
-- 🌱 I’m currently learning about development and devops, because i already work with infraestructure in cloud enviroments.
-- 💞️ I’m looking to collaborate on.
+- 👀 I’m interested in development, infrastructure and DevOps culture.
+- 🌱 I’m currently learning about development and observability, because i already work with SRE.
 - 📫 How to reach me ? paste the link above in your browser...
 
 https://www.linkedin.com/in/leonardo-godoi-de-liz-boeno-05081b186/
