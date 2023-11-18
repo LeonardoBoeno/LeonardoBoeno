@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoBoeno
 - 👀 I work with SRE and i am interested in development, infrastructure and DevOps culture.
-- 🌱 I’m currently my development, observability and kubernetes skills.
+- 🌱 I’m currently improving my development, observability and kubernetes skills.
 - 📫 How to reach me ? paste the link above in your browser...
 
 https://www.linkedin.com/in/leonardo-godoi-de-liz-boeno-05081b186/
